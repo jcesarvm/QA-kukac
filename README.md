@@ -7,7 +7,7 @@ Este projeto contém testes automatizados da interface do **Quadro Kanban** util
 ## Estrutura do Projeto
 
 - `cypress/e2e/` - Contém os arquivos de testes (`.cy.js`).
-- `cypress/fixtures/` - Dados de teste (opcional).
+- `cypress/fixtures/` - Dados de teste.
 - `cypress/support/` - Configurações e comandos personalizados do Cypress.
 - `package.json` - Gerencia dependências e scripts do projeto.
 
